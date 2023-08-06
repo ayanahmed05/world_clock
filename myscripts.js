@@ -1,4 +1,4 @@
-<script>
+
     async function getUser(place) {
             const api_url = `https://timezone.abstractapi.com/v1/current_time/?api_key=6e5b096916da498aabcd7f8f01f83065&location=${place}`
             
@@ -54,4 +54,4 @@
     //     })
     // })
    
-   </script>
+
